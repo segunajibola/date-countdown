@@ -88,3 +88,12 @@ footer p .love {
     color: red;
     font-size: 23px;
 }
+
+footer div {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+footer div a{
+    margin: 10px;
+}
